@@ -26,34 +26,6 @@ const components=[
         title:"Rolling On The Floor Laughing",
         bio:"A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing (the internet acronym ROFL)."
 
-    },
-    {
-        id:3,
-        emoji:"😂",
-        title:"Rolling On The Floor Laughing",
-        bio:"A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing (the internet acronym ROFL)."
-
-    },
-    {
-        id:3,
-        emoji:"😂",
-        title:"Rolling On The Floor Laughing",
-        bio:"A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing (the internet acronym ROFL)."
-
-    },
-    {
-        id:3,
-        emoji:"😂",
-        title:"Rolling On The Floor Laughing",
-        bio:"A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing (the internet acronym ROFL)."
-
-    },
-    {
-        id:3,
-        emoji:"😂",
-        title:"Rolling On The Floor Laughing",
-        bio:"A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing (the internet acronym ROFL)."
-
     }
 ];
 
